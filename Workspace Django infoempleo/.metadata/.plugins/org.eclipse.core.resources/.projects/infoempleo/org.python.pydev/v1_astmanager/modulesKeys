@@ -1,0 +1,12 @@
+MODULES_MANAGER_V2
+infoempleo.__init__|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\infoempleo\__init__.py
+infoempleo.settings|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\infoempleo\settings.py
+infoempleo.urls|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\infoempleo\urls.py
+infoempleo.wsgi|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\infoempleo\wsgi.py
+manage|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\manage.py
+principal.Beautifulsoup|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\principal\Beautifulsoup.py
+principal.Whoosh|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\principal\Whoosh.py
+principal.__init__|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\principal\__init__.py
+principal.models|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\principal\models.py
+principal.tests|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\principal\tests.py
+principal.views|C:\DP\GitHub\Workspace Django infoempleo\infoempleo\principal\views.py

@@ -1,0 +1,8 @@
+# Create your views here.
+import Beautifulsoup
+import Whoosh
+def popular_whoosh(request):
+    populateDatabase() 
+    return render_to_response('populate.html')
+def lista_trabajos(request):
+    
